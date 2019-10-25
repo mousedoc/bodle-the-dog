@@ -1,7 +1,8 @@
 # **bodle-the-dog**
 보들이
 
-# Collection![](./assets/0.png)
+# Collection
+![](./assets/0.png)
 ![](./assets/1.png)
 ![](./assets/123121246126893481923.PNG)
 ![](./assets/123123123412341234.PNG)
