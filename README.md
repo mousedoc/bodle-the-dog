@@ -64,4 +64,8 @@
 ![](./assets/KakaoTalk_20191101_193837578.jpg)
 ![](./assets/KakaoTalk_20191102_110640231.jpg)
 ![](./assets/KakaoTalk_20191102_110706319.jpg)
+![](./assets/KakaoTalk_20191102_153932374.jpg)
+![](./assets/KakaoTalk_20191102_153932375.jpg)
+![](./assets/KakaoTalk_20191103_160600357.jpg)
+![](./assets/KakaoTalk_20191103_160600377.jpg)
 ![](./assets/qwevqwevqwev.PNG)
