@@ -102,4 +102,7 @@
 ![](./assets/KakaoTalk_20191112_202539906.jpg)
 ![](./assets/KakaoTalk_20191112_202540064.jpg)
 ![](./assets/KakaoTalk_20191112_202540065.PNG)
+![](./assets/KakaoTalk_20191114_105248128.jpg)
+![](./assets/KakaoTalk_20191114_113233778.jpg)
+![](./assets/KakaoTalk_20191114_113358864.jpg)
 ![](./assets/qwevqwevqwev.PNG)
