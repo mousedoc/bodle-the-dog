@@ -130,4 +130,6 @@
 ![](./assets/KakaoTalk_20191124_172004859.jpg)
 ![](./assets/KakaoTalk_20191126_104153661.jpg)
 ![](./assets/KakaoTalk_20191126_105243045.jpg)
+![](./assets/KakaoTalk_20191126_184758543.jpg)
+![](./assets/KakaoTalk_20191126_204109047.jpg)
 ![](./assets/qwevqwevqwev.PNG)
