@@ -6,7 +6,7 @@
 
 
 # Collection
-![]\(./assets/0.png)
+![](./assets/0.png)
 ![](./assets/1.png)
 ![](./assets/123121246126893481923.PNG)
 ![](./assets/123123123412341234.PNG)
@@ -371,4 +371,7 @@
 ![](./assets/KakaoTalk_20200219_120743910.jpg)
 ![](./assets/KakaoTalk_20200219_120744037.jpg)
 ![](./assets/KakaoTalk_20200219_120744942.jpg)
+![](./assets/KakaoTalk_20200219_121737787.jpg)
+![](./assets/KakaoTalk_20200219_121737788.PNG)
+![](./assets/KakaoTalk_20200219_121737789.PNG)
 ![](./assets/qwevqwevqwev.PNG)
