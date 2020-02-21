@@ -25,6 +25,7 @@
 ![](./assets/KakaoTalk_20190422_144309929.jpg)
 ![](./assets/KakaoTalk_20190530_074800977.jpg)
 ![](./assets/KakaoTalk_20190930_113831066.png)
+![](./assets/KakaoTalk_20190930_113831067.PNG)
 ![](./assets/KakaoTalk_20191003_010559563.png)
 ![](./assets/KakaoTalk_20191006_210417776.jpg)
 ![](./assets/KakaoTalk_20191007_162336327.jpg)
@@ -382,4 +383,3 @@
 ![](./assets/KakaoTalk_20200220_150833203.jpg)
 ![](./assets/KakaoTalk_20200220_150833555.jpg)
 ![](./assets/KakaoTalk_20200220_150834133.jpg)
-![](./assets/qwevqwevqwev.PNG)
