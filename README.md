@@ -4,6 +4,7 @@
 견종 : 비숑 프리제 (?)  
 특징 : 반가우면 오줌을 지림  
 
+![최신순으로 보기](SORTED-README.md)  
 
 # Collection
 ![](./assets/0.png)
