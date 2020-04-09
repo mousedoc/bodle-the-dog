@@ -551,6 +551,7 @@
 ![](./assets/KakaoTalk_20191003_010559563.png)
 ![](./assets/KakaoTalk_20190930_113831067.PNG)
 ![](./assets/KakaoTalk_20190930_113831066.png)
+![](./assets/KakaoTalk_20190918_160459701.png)
 ![](./assets/KakaoTalk_20190918_160459700.png)
 ![](./assets/KakaoTalk_20190530_074800977.jpg)
 ![](./assets/KakaoTalk_20190422_144309929.jpg)
