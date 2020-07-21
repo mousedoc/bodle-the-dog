@@ -1002,3 +1002,5 @@
 ![](./assets/KakaoTalk_20200720_105541129.jpg)
 ![](./assets/KakaoTalk_20200720_105846438.jpg)
 ![](./assets/KakaoTalk_20200720_105955425.jpg)
+![](./assets/KakaoTalk_20200721_100834144.jpg)
+![](./assets/KakaoTalk_20200721_100920547.jpg)
