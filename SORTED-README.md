@@ -8,6 +8,14 @@
 [오래된순으로 보기](README.md)  
 
 # Collection
+![](./assets/KakaoTalk_20200810_015451776.jpg)
+![](./assets/KakaoTalk_20200810_015448044.jpg)
+![](./assets/KakaoTalk_20200810_015445126.jpg)
+![](./assets/KakaoTalk_20200809_171042205.jpg)
+![](./assets/KakaoTalk_20200809_171041321.jpg)
+![](./assets/KakaoTalk_20200809_171041267.jpg)
+![](./assets/KakaoTalk_20200809_014328486.jpg)
+![](./assets/KakaoTalk_20200809_014328484.jpg)
 ![](./assets/KakaoTalk_20200807_135306812.jpg)
 ![](./assets/KakaoTalk_20200807_135306215.jpg)
 ![](./assets/KakaoTalk_20200807_133903198.jpg)
