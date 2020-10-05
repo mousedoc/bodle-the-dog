@@ -1410,3 +1410,4 @@
 ![](./assets/KakaoTalk_20201001_182130159.jpg)
 ![](./assets/KakaoTalk_20201001_194659946.jpg)
 ![](./assets/KakaoTalk_20201001_194700011.jpg)
+![](./assets/KakaoTalk_20201004_225122921_01.jpg)
