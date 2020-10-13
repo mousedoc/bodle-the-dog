@@ -1422,3 +1422,5 @@
 ![](./assets/KakaoTalk_20201009_131712789.jpg)
 ![](./assets/KakaoTalk_20201009_131713183.jpg)
 ![](./assets/KakaoTalk_20201012_195230647.jpg)
+![](./assets/KakaoTalk_20201012_215835769.jpg)
+![](./assets/KakaoTalk_20201012_215836574.jpg)
