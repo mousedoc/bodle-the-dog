@@ -1438,3 +1438,4 @@
 ![](./assets/KakaoTalk_20201014_220853828.jpg)
 ![](./assets/KakaoTalk_20201015_125836202.jpg)
 ![](./assets/KakaoTalk_20201015_125836203.jpg)
+![](./assets/KakaoTalk_20201015_140354014.jpg)
