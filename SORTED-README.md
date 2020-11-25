@@ -8,6 +8,8 @@
 [오래된순으로 보기](README.md)  
 
 # Collection
+![](./assets/KakaoTalk_20201125_150643196.jpg)
+![](./assets/KakaoTalk_20201125_150510146.jpg)
 ![](./assets/KakaoTalk_20201124_213531196.jpg)
 ![](./assets/KakaoTalk_20201124_210857614.jpg)
 ![](./assets/KakaoTalk_20201124_184254631.jpg)
