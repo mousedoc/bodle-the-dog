@@ -9,6 +9,7 @@
 
 # Collection
 ![](./assets/KakaoTalk_20201214_105044009.jpg)
+![](./assets/KakaoTalk_20201214_105043671.jpg)
 ![](./assets/KakaoTalk_20201214_105042833.jpg)
 ![](./assets/KakaoTalk_20201214_083426921.jpg)
 ![](./assets/KakaoTalk_20201213_140556575.jpg)
