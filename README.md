@@ -1896,3 +1896,6 @@
 ![](./assets/KakaoTalk_20201216_143720378.jpg)
 ![](./assets/KakaoTalk_20201216_143819333.png)
 ![](./assets/KakaoTalk_20201216_143905372.png)
+![](./assets/KakaoTalk_20201216_144025422.jpg)
+![](./assets/KakaoTalk_20201216_144025480.jpg)
+![](./assets/KakaoTalk_20201216_145147224.png)
