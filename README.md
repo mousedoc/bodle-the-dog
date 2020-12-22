@@ -1936,3 +1936,5 @@
 ![](./assets/KakaoTalk_20201222_135241504.jpg)
 ![](./assets/KakaoTalk_20201222_140125313.jpg)
 ![](./assets/KakaoTalk_20201222_144418854.jpg)
+![](./assets/KakaoTalk_20201222_171634942.jpg)
+![](./assets/KakaoTalk_20201222_172221971.jpg)
