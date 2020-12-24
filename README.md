@@ -1960,3 +1960,7 @@
 ![](./assets/KakaoTalk_20201224_141224646.png)
 ![](./assets/KakaoTalk_20201224_141241879.png)
 ![](./assets/KakaoTalk_20201224_141249494.png)
+![](./assets/KakaoTalk_20201224_162537150.jpg)
+![](./assets/KakaoTalk_20201224_171115342.jpg)
+![](./assets/KakaoTalk_20201224_172611790.png)
+![](./assets/KakaoTalk_20201224_172627661.png)
