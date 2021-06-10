@@ -57,6 +57,7 @@
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_003.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_002.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_001.jpeg)
+![](./assets/KakaoTalk_20210610_224520145.jpg)
 ![](./assets/KakaoTalk_20210610_192720058.jpg)
 ![](./assets/KakaoTalk_20210609_133248958_08.jpg)
 ![](./assets/KakaoTalk_20210609_133248958_07.jpg)
