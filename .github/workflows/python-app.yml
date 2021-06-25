@@ -1,0 +1,26 @@
+name: Update readme
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+
+jobs:
+  run_python_script:
+    runs-on: ubuntu-latest
+    steps:
+  
+    # Clone repository
+    - uses: actions/checkout@v2
+    
+    # Setup python 3.9
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    # Run python script
+    - name: Generate readme files
+      run: |
+        python @relative-path-getter.py
+
