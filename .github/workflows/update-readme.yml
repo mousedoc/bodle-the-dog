@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 
 jobs:
-  run_python_script:
+  update_readme:
     runs-on: ubuntu-latest
     steps:
   
@@ -23,4 +23,13 @@ jobs:
     - name: Generate readme files
       run: |
         python @relative-path-getter.py
+        
+    # Commit changes
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: mousedoc
+        author_email: sangyun3631@gmail.com
+        message: 'B O D L E'
+        add: '*.md'
 
