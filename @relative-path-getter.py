@@ -1,12 +1,18 @@
 import os
 
 
-def get_picture_string(path):
-    file_list = os.listdir(path)
-    picture_string = '\n'.join(file_list)
-    file_list.reverse()
-    reversed_picture_string = '\n'.join(file_list)
-    return {picture_string, reversed_picture_string}
+def get_picture_string(path, reversed):
+    file_list = sorted(os.listdir(path))
+
+    if reversed:
+        file_list.reverse()
+
+    output = ''
+    format = '![](./assets/{0})\n'
+    for file_name in file_list:
+        output += format.format(file_name)
+
+    return output
 
 
 def generate_readme(format_file_name, output_file_name, picture_string):
@@ -15,14 +21,14 @@ def generate_readme(format_file_name, output_file_name, picture_string):
         format = file.read()
         output = format.format(picture_string)
 
-    print(f'--- {output_file_name} --- \n{output}\n\n\n')
-
     with open(output_file_name, 'wt', encoding='utf8') as file:
         file.write(output)
 
 
 if __name__ == "__main__":
-    picture_string, reversed_picture_string = get_picture_string('assets/')
-    generate_readme('Format.txt', 'README.md', picture_string)
+    readme_output = get_picture_string('assets/', False)
+    sorted_readme_output = get_picture_string('assets/', True)
+
+    generate_readme('Format.txt', 'README.md', readme_output)
     generate_readme('SortedFormat.txt', 'SORTED-README.md',
-                    reversed_picture_string)
+                    sorted_readme_output)
