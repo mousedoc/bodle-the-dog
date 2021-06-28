@@ -29,6 +29,6 @@ if __name__ == "__main__":
     readme_output = get_picture_string('assets/', False)
     sorted_readme_output = get_picture_string('assets/', True)
 
-    generate_readme('Format.txt', 'README.md', readme_output)
+    generate_readme('Format.txt', 'README.md', sorted_readme_output)
     generate_readme('SortedFormat.txt', 'SORTED-README.md',
-                    sorted_readme_output)
+                    readme_output)
