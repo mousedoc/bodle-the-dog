@@ -3060,6 +3060,7 @@
 ![](./assets/KakaoTalk_20210714_151744905.png)
 ![](./assets/KakaoTalk_20210714_151752630.png)
 ![](./assets/KakaoTalk_20210714_151804962.png)
+![](./assets/KakaoTalk_20210715_211118738.jpg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_001.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_002.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_003.jpeg)
