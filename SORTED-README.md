@@ -3070,6 +3070,8 @@
 ![](./assets/KakaoTalk_20210717_235412138.png)
 ![](./assets/KakaoTalk_20210717_235421848.png)
 ![](./assets/KakaoTalk_20210717_235433658.png)
+![](./assets/KakaoTalk_20210718_211305604.jpg)
+![](./assets/KakaoTalk_20210718_211329066.jpg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_001.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_002.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_003.jpeg)
