@@ -3189,6 +3189,7 @@
 ![](./assets/KakaoTalk_20210812_180941686.png)
 ![](./assets/KakaoTalk_20210812_180950737.png)
 ![](./assets/KakaoTalk_20210812_181004274.png)
+![](./assets/KakaoTalk_20210814_095132240.jpg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_001.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_002.jpeg)
 ![](./assets/KakaoTalk_Image_2021-05-27-19-31-17_003.jpeg)
